@@ -1,0 +1,7 @@
+[package]
+name = "chain-rust-practice"
+version = "0.1.0"
+authors = ["mike"]
+
+[dependencies]
+rust-crypto = "^0.2"
